@@ -14,10 +14,6 @@ The **2D Drawing Application** is a Java-based desktop application that allows u
   - Move, resize, and delete shapes.
   - Change color, stroke width, and fill style.
 
-- **File Operations**:
-  - Save drawings to a file.
-  - Load existing drawings from a file.
-
 - **User-Friendly Interface**:
   - Toolbar for easy access to tools.
   - Canvas area for drawing.
